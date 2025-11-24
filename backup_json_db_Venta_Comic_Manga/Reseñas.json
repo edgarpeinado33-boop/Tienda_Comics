@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "6826203a504fa3c870cde2a6",
+    "resena_id": 1,
+    "usuario": "user1",
+    "comic_id": 1,
+    "calificacion": 5,
+    "comentario": "Muy divertido y emocionante.",
+    "fecha": "2023-01-01",
+    "recomendado": true,
+    "likes": 15
+  },
+  {
+    "_id": "6826203a504fa3c870cde2a7",
+    "resena_id": 2,
+    "usuario": "user2",
+    "comic_id": 2,
+    "calificacion": 4,
+    "comentario": "Gran historia y personajes.",
+    "fecha": "2023-01-05",
+    "recomendado": true,
+    "likes": 20
+  },
+  {
+    "_id": "6826203a504fa3c870cde2a8",
+    "resena_id": 3,
+    "usuario": "user3",
+    "comic_id": 3,
+    "calificacion": 3,
+    "comentario": "Buena pero predecible.",
+    "fecha": "2023-01-10",
+    "recomendado": false,
+    "likes": 5
+  },
+  {
+    "_id": "6826203a504fa3c870cde2a9",
+    "resena_id": 4,
+    "usuario": "user 4",
+    "comic_id": 4,
+    "calificacion": 5,
+    "comentario": "Inspiradora y genial.",
+    "fecha": "2023-01-15",
+    "recomendado": true,
+    "likes": 25
+  },
+  {
+    "_id": "6826203a504fa3c870cde2aa",
+    "resena_id": 5,
+    "usuario": "user5",
+    "comic_id": 5,
+    "calificacion": 2,
+    "comentario": "No me gustó mucho.",
+    "fecha": "2023-01-20",
+    "recomendado": false,
+    "likes": 2
+  }
+]

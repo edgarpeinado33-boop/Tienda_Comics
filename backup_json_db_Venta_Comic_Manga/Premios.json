@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "682620de504fa3c870cde2c9",
+    "premio_id": 1,
+    "nombre": "Eisner Awards",
+    "categoria": "Industria",
+    "fecha": "2023-07-15",
+    "comic_id": 1,
+    "autor_id": 1,
+    "descripcion": "Premio a la excelencia en cómic.",
+    "activo": true
+  },
+  {
+    "_id": "682620de504fa3c870cde2ca",
+    "premio_id": 2,
+    "nombre": "Harvey Awards",
+    "categoria": "Industria",
+    "fecha": "2023-07-20",
+    "comic_id": 2,
+    "autor_id": 2,
+    "descripcion": "Reconocimiento por contribuciones al cómic.",
+    "activo": true
+  },
+  {
+    "_id": "682620de504fa3c870cde2cb",
+    "premio_id": 3,
+    "nombre": "Shogakukan Manga Award",
+    "categoria": "Manga",
+    "fecha": "2023-06-10",
+    "comic_id": 3,
+    "autor_id": 3,
+    "descripcion": "Premio japonés al manga.",
+    "activo": true
+  },
+  {
+    "_id": "682620de504fa3c870cde2cc",
+    "premio_id": 4,
+    "nombre": "Kodansha Manga Award",
+    "categoria": "Manga",
+    "fecha": "2023-06-15",
+    "comic_id": 4,
+    "autor_id": 4,
+    "descripcion": "Reconocimiento a mejores mangas.",
+    "activo": true
+  },
+  {
+    "_id": "682620de504fa3c870cde2cd",
+    "premio_id": 5,
+    "nombre": "IgNobel Prize",
+    "categoria": "Ciencia ficción",
+    "fecha": "2023-08-01",
+    "comic_id": 5,
+    "autor_id": 5,
+    "descripcion": "Premio humorístico.",
+    "activo": false
+  }
+]

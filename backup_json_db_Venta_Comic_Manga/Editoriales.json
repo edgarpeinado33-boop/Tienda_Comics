@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "68262008504fa3c870cde29c",
+    "editorial_id": 1,
+    "nombre": "Marvel Comics",
+    "pais": "USA",
+    "fundacion": "1939-10-01",
+    "ceo": "Dan Buckley",
+    "sede": "Nueva York",
+    "cantidad_comics": 5000,
+    "web": "https://www.marvel.com"
+  },
+  {
+    "_id": "68262008504fa3c870cde29d",
+    "editorial_id": 2,
+    "nombre": "DC Comics",
+    "pais": "USA",
+    "fundacion": "1934-06-01",
+    "ceo": "Jim Lee",
+    "sede": "Burbank",
+    "cantidad_comics": 4000,
+    "web": "https://www.dccomics.com"
+  },
+  {
+    "_id": "68262008504fa3c870cde29e",
+    "editorial_id": 3,
+    "nombre": "Shueisha",
+    "pais": "Japón",
+    "fundacion": "1925-07-02",
+    "ceo": "Haruo Izumi",
+    "sede": "Tokio",
+    "cantidad_comics": 6000,
+    "web": "https://www.shueisha.co.jp"
+  },
+  {
+    "_id": "68262008504fa3c870cde29f",
+    "editorial_id": 4,
+    "nombre": "Kodansha",
+    "pais": "Japón",
+    "fundacion": "1909-12-01",
+    "ceo": "Norio Tsukudate",
+    "sede": "Tokio",
+    "cantidad_comics": 5500,
+    "web": "https://www.kodansha.co.jp"
+  },
+  {
+    "_id": "68262008504fa3c870cde2a0",
+    "editorial_id": 5,
+    "nombre": "Dark Horse",
+    "pais": "USA",
+    "fundacion": "1986-11-01",
+    "ceo": "Mike Richardson",
+    "sede": "Oregon",
+    "cantidad_comics": 1200,
+    "web": "https://www.darkhorse.com"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "68262029504fa3c870cde2a1",
+    "serie_id": 1,
+    "nombre": "Los Vengadores",
+    "descripcion": "Equipo de superhéroes Marvel.",
+    "editorial_id": 1,
+    "numero_volumenes": 50,
+    "genero": "Acción",
+    "fecha_inicio": "1963-09-01",
+    "activo": true
+  },
+  {
+    "_id": "68262029504fa3c870cde2a2",
+    "serie_id": 2,
+    "nombre": "La Liga de la Justicia",
+    "descripcion": "Equipo de superhéroes DC.",
+    "editorial_id": 2,
+    "numero_volumenes": 45,
+    "genero": "Acción",
+    "fecha_inicio": "1960-01-01",
+    "activo": true
+  },
+  {
+    "_id": "68262029504fa3c870cde2a3",
+    "serie_id": 3,
+    "nombre": "Dragon Ball",
+    "descripcion": "La saga de Goku y sus amigos.",
+    "editorial_id": 3,
+    "numero_volumenes": 40,
+    "genero": "Aventura",
+    "fecha_inicio": "1984-11-20",
+    "activo": false
+  },
+  {
+    "_id": "68262029504fa3c870cde2a4",
+    "serie_id": 4,
+    "nombre": "Naruto",
+    "descripcion": "Historia del ninja Naruto.",
+    "editorial_id": 3,
+    "numero_volumenes": 72,
+    "genero": "Acción",
+    "fecha_inicio": "1999-09-21",
+    "activo": true
+  },
+  {
+    "_id": "68262029504fa3c870cde2a5",
+    "serie_id": 5,
+    "nombre": "One Piece",
+    "descripcion": "La búsqueda del tesoro One Piece.",
+    "editorial_id": 3,
+    "numero_volumenes": 95,
+    "genero": "Aventura",
+    "fecha_inicio": "1997-07-22",
+    "activo": true
+  }
+]

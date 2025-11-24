@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "682f76e43443cd06f44d8237",
+    "producto_id": 1,
+    "nombre": "Comic Spider-Man #1",
+    "categoria": "Cómics",
+    "precio": 3.99,
+    "stock": 100,
+    "proveedor": "Marvel Store",
+    "descripcion": "Primera edición de Spider-Man, un clásico de los cómics.",
+    "activo": true
+  },
+  {
+    "_id": "682f76e43443cd06f44d8238",
+    "producto_id": 2,
+    "nombre": "Comic Ms Marvel #1",
+    "categoria": "Cómics",
+    "precio": 4.5,
+    "stock": 80,
+    "proveedor": "Marvel Store",
+    "descripcion": "La historia de Kamala Khan como Ms Marvel.",
+    "activo": true
+  },
+  {
+    "_id": "682f76e43443cd06f44d8239",
+    "producto_id": 3,
+    "nombre": "Comic Batman #1",
+    "categoria": "Cómics",
+    "precio": 4.99,
+    "stock": 50,
+    "proveedor": "DC Store",
+    "descripcion": "El inicio de las aventuras del caballero oscuro.",
+    "activo": true
+  },
+  {
+    "_id": "682f76e43443cd06f44d823a",
+    "producto_id": 4,
+    "nombre": "Comic Attack on Titan #1",
+    "categoria": "Mangas",
+    "precio": 8.5,
+    "stock": 30,
+    "proveedor": "Anime Store",
+    "descripcion": "La lucha de la humanidad contra los titanes.",
+    "activo": true
+  },
+  {
+    "_id": "682f76e43443cd06f44d823b",
+    "producto_id": 5,
+    "nombre": "Comic Beastars #1",
+    "categoria": "Mangas",
+    "precio": 7.5,
+    "stock": 40,
+    "proveedor": "Anime Store",
+    "descripcion": "Un mundo de animales antropomórficos en conflictos internos.",
+    "activo": true
+  }
+]

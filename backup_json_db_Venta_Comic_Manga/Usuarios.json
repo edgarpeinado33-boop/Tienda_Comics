@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "682621d5504fa3c870cde2e7",
+    "usuario_id": 1,
+    "username": "juanp",
+    "password_hash": "hashed_password1",
+    "email": "juan.perez@example.com",
+    "rol": "cliente",
+    "activo": true,
+    "fecha_creacion": "2023-01-10",
+    "ultimo_acceso": "2023-04-01"
+  },
+  {
+    "_id": "682621d5504fa3c870cde2e8",
+    "usuario_id": 2,
+    "username": "marial",
+    "password_hash": "hashed_password2",
+    "email": "maria.lopez@example.com",
+    "rol": "cliente",
+    "activo": true,
+    "fecha_creacion": "2023-02-12",
+    "ultimo_acceso": "2023-04-05"
+  },
+  {
+    "_id": "682621d5504fa3c870cde2e9",
+    "usuario_id": 3,
+    "username": "carlosm",
+    "password_hash": "hashed_password3",
+    "email": "carlos.martinez@example.com",
+    "rol": "cliente",
+    "activo": false,
+    "fecha_creacion": "2023-03-15",
+    "ultimo_acceso": "2023-03-20"
+  },
+  {
+    "_id": "682621d5504fa3c870cde2ea",
+    "usuario_id": 4,
+    "username": "anag",
+    "password_hash": "hashed_password4",
+    "email": "ana.gomez@example.com",
+    "rol": "cliente",
+    "activo": true,
+    "fecha_creacion": "2023-01-25",
+    "ultimo_acceso": "2023-04-03"
+  },
+  {
+    "_id": "682621d5504fa3c870cde2eb",
+    "usuario_id": 5,
+    "username": "luisf",
+    "password_hash": "hashed_password5",
+    "email": "luis.fernandez@example.com",
+    "rol": "administrador",
+    "activo": true,
+    "fecha_creacion": "2023-04-05",
+    "ultimo_acceso": "2023-04-10"
+  },
+  {
+    "_id": "68264356b42124fdd7e35192",
+    "usuario_id": 7,
+    "username": "rainer",
+    "password_hash": "asdf",
+    "email": "rainer@123",
+    "rol": "cliente",
+    "activo": true,
+    "fecha_creacion": "2025-05-15",
+    "ultimo_acceso": "2025-05-15"
+  }
+]

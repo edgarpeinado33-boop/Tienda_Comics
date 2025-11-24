@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "682620d5504fa3c870cde2c4",
+    "idioma_id": 1,
+    "nombre": "Español",
+    "codigo": "es",
+    "region": "España",
+    "activo": true,
+    "numero_traducciones": 100,
+    "editorial_id": 1,
+    "descripcion": "Traducción al español."
+  },
+  {
+    "_id": "682620d5504fa3c870cde2c5",
+    "idioma_id": 2,
+    "nombre": "Inglés",
+    "codigo": "en",
+    "region": "USA",
+    "activo": true,
+    "numero_traducciones": 500,
+    "editorial_id": 1,
+    "descripcion": "Idioma original."
+  },
+  {
+    "_id": "682620d5504fa3c870cde2c6",
+    "idioma_id": 3,
+    "nombre": "Japonés",
+    "codigo": "jp",
+    "region": "Japón",
+    "activo": true,
+    "numero_traducciones": 300,
+    "editorial_id": 3,
+    "descripcion": "Idioma original manga."
+  },
+  {
+    "_id": "682620d5504fa3c870cde2c7",
+    "idioma_id": 4,
+    "nombre": "Francés",
+    "codigo": "fr",
+    "region": "Francia",
+    " activo": true,
+    "numero_traducciones": 80,
+    "editorial_id": 2,
+    "descripcion": "Traducción al francés."
+  },
+  {
+    "_id": "682620d5504fa3c870cde2c8",
+    "idioma_id": 5,
+    "nombre": "Alemán",
+    "codigo": "de",
+    "region": "Alemania",
+    "activo": true,
+    "numero_traducciones": 60,
+    "editorial_id": 2,
+    "descripcion": "Traducción al alemán."
+  }
+]

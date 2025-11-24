@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "682f7e9a9647024b4d1e8703",
+    "compra_id": 1,
+    "cliente_id": 5,
+    "fecha_compra": "2025-05-22",
+    "total": 123,
+    "metodo_pago": "Tarjeta",
+    "estado": "Completado",
+    "tienda_id": 1,
+    "detalle": [
+      {
+        "producto_id": 2,
+        "nombre": "Comic Ms Marvel #1 (Producto)",
+        "cantidad": 12
+      }
+    ]
+  },
+  {
+    "_id": "68336a44244879914ad02018",
+    "compra_id": 7,
+    "cliente_id": 5,
+    "fecha": "2025-05-25",
+    "metodo_pago": "Efectivo",
+    "estado": "Completado",
+    "total": 69.86,
+    "detalle": [
+      {
+        "producto_id": 3,
+        "cantidad": 14,
+        "precio_unitario": 4.99
+      }
+    ]
+  },
+  {
+    "_id": "68336bce986d636cca1a3339",
+    "compra_id": 4,
+    "cliente_id": 4,
+    "fecha": "2025-05-25",
+    "metodo_pago": "Tarjeta",
+    "estado": "Completado",
+    "total": 240,
+    "detalle": [
+      {
+        "producto_id": 5,
+        "cantidad": 32,
+        "precio_unitario": 7.5
+      }
+    ]
+  },
+  {
+    "_id": "6833722dc0e4efbae7a794dc",
+    "compra_id": 9,
+    "cliente_id": 2,
+    "fecha": "2025-05-25",
+    "metodo_pago": "Tarjeta",
+    "estado": "Completado",
+    "detalle": [
+      {
+        "producto_id": 2,
+        "cantidad": 1,
+        "precio_unitario": 4.5
+      }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "68261fd7504fa3c870cde28d",
+    "manga_id": 1,
+    "titulo": "Attack on Titan",
+    "autor_id": 14,
+    "editorial_id": 3,
+    "fecha_publicacion": "2009-09-09",
+    "genero": "Acción",
+    "precio": 8.5,
+    "sinopsis": "La humanidad lucha contra gigantes para sobrevivir."
+  },
+  {
+    "_id": "68261fd7504fa3c870cde28e",
+    "manga_id": 2,
+    "titulo": "Beastars",
+    "autor_id": 15,
+    "editorial_id": 3,
+    "fecha_publicacion": "2016-09-08",
+    "genero": "Drama",
+    "precio": 7.5,
+    "sinopsis": "Un mundo de animales antropomórficos en conflictos internos."
+  },
+  {
+    "_id": "68261fd7504fa3c870cde28f",
+    "manga_id": 3,
+    "titulo": "Digimon",
+    "autor_id": 16,
+    "editorial_id": 3,
+    "fecha_publicacion": "1999-03-01",
+    "genero": "Aventura",
+    "precio": 7,
+    "sinopsis": "Niños viajeros en un mundo digital con monstruos compañeros."
+  },
+  {
+    "_id": "68261fd7504fa3c870cde290",
+    "manga_id": 4,
+    "titulo": "Pokemon Special",
+    "autor_id": 17,
+    "editorial_id": 3,
+    "fecha_publicacion": "1997-02-27",
+    "genero": "Aventura",
+    "precio": 7.25,
+    "sinopsis": "Las aventuras de entrenadores Pokémon en su camino a convertirse en maestros."
+  },
+  {
+    "_id": "68261fd7504fa3c870cde291",
+    "manga_id": 5,
+    "titulo": "Kimi to Koete Koi ni Naru",
+    "autor_id": 18,
+    "editorial_id": 3,
+    "fecha_publicacion": "2021-06-01",
+    "genero": "Romance",
+    "precio": 8,
+    "sinopsis": "Relación romántica que supera dificultades personales."
+  }
+]

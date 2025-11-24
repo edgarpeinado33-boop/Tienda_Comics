@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "68262048504fa3c870cde2ab",
+    "adaptacion_id": 1,
+    "comic_id": 1,
+    "tipo": "Película",
+    "titulo": "Spider-Man: Homecoming",
+    "fecha_estreno": "2017-07-07",
+    "director": "Jon Watts",
+    "calificacion_tmdb": 7.4,
+    "descripcion": "Película basada en Spider-Man."
+  },
+  {
+    "_id": "68262048504fa3c870cde2ac",
+    "adaptacion_id": 2,
+    "comic_id": 2,
+    "tipo": "Película",
+    "titulo": "The Dark Knight",
+    "fecha_estreno": "2008-07-18",
+    "director": "Christopher Nolan",
+    "calificacion_tmdb": 9,
+    "descripcion": "Película de Batman."
+  },
+  {
+    "_id": "68262048504fa3c870cde2ad",
+    "adaptacion_id": 3,
+    "comic_id": 3,
+    "tipo": "Serie",
+    "titulo": "X-Men Animated",
+    "fecha_estreno": "1992-10-31",
+    "director": "Chuck Patton",
+    "calificacion_tmdb": 8,
+    "descripcion": "Serie animada de X-Men."
+  },
+  {
+    "_id": "68262048504fa3c870cde2ae",
+    "adaptacion_id": 4,
+    "comic_id": 4,
+    "tipo": "Película",
+    "titulo": "Wonder Woman",
+    "fecha_estreno": "2017-06-02",
+    "director": "Patty Jenkins",
+    "calificacion_tmdb": 7.4,
+    "descripcion": "Película sobre Wonder Woman."
+  },
+  {
+    "_id": "68262048504fa3c870cde2af",
+    "adaptacion_id": 5,
+    "comic_id": 5,
+    "tipo": "Película",
+    "titulo": "Man of Steel",
+    "fecha_estreno": "2013-06-14",
+    "director": "Zack Snyder",
+    "calificacion_tmdb": 7,
+    "descripcion": "Película sobre Superman."
+  }
+]

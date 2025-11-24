@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "68261fc3504fa3c870cde288",
+    "comic_id": 1,
+    "titulo": "Ms Marvel (Kamala Khan)",
+    "autor_id": 11,
+    "editorial_id": 1,
+    "fecha_publicacion": "2014-02-01",
+    "genero": "Superhéroes",
+    "precio": 4.5,
+    "sinopsis": "La joven Kamala Khan asume el manto de Ms Marvel con poderes de cambio de forma."
+  },
+  {
+    "_id": "68261fc3504fa3c870cde289",
+    "comic_id": 2,
+    "titulo": "Spider-Man",
+    "autor_id": 12,
+    "editorial_id": 1,
+    "fecha_publicacion": "1962-08-01",
+    "genero": "Superhéroes",
+    "precio": 3.99,
+    "sinopsis": "Las aventuras de un joven con poderes arácnidos."
+  },
+  {
+    "_id": "68261fc3504fa3c870cde28a",
+    "comic_id": 3,
+    "titulo": "Unnatural",
+    "autor_id": 13,
+    "editorial_id": 3,
+    "fecha_publicacion": "2020-01-15",
+    "genero": "Suspenso",
+    "precio": 5,
+    "sinopsis": "Misterios y crímenes en la ciudad de Milka Adolfo."
+  },
+  {
+    "_id": "68261fc3504fa3c870cde28b",
+    "comic_id": 4,
+    "titulo": "Batman",
+    "autor_id": 2,
+    "editorial_id": 1,
+    "fecha_publicacion": "1939-05-01",
+    "genero": "Acción",
+    "precio": 4.99,
+    "sinopsis": "El caballero oscuro de Gotham."
+  },
+  {
+    "_id": "68261fc3504fa3c870cde28c",
+    "comic_id": 5,
+    "titulo": "X-Men",
+    "autor_id": 3,
+    "editorial_id": 1,
+    "fecha_publicacion": "1963-09-01",
+    "genero": "Ciencia Ficción",
+    "precio": 3.5,
+    "sinopsis": "Un grupo de mutantes luchan por la paz."
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "682620f9504fa3c870cde2d8",
+    "compra_id": 1,
+    "cliente_id": 1,
+    "fecha_compra": "2023-03-01",
+    "total": 19.98,
+    "metodo_pago": "Tarjeta",
+    "estado": "Completado",
+    "tienda_id": 1,
+    "detalle": "Spider-Man #1 x 1, Naruto Vol.1 x 1"
+  },
+  {
+    "_id": "682620f9504fa3c870cde2d9",
+    "compra_id": 2,
+    "cliente_id": 2,
+    "fecha_compra": "2023-03-03",
+    "total": 13.5,
+    "metodo_pago": "Efectivo",
+    "estado": "Completado",
+    "tienda_id": 1,
+    "detalle": "Batman #1 x 1, One Piece Vol.1 x 1"
+  },
+  {
+    "_id": "682620f9504fa3c870cde2da",
+    "compra_id": 3,
+    "cliente_id": 3,
+    "fecha_compra": "2023-03-05",
+    "total": 7.5,
+    "metodo_pago": "Tarjeta",
+    "estado": "Pendiente",
+    "tienda_id": 2,
+    "detalle": "X-Men #1 x 1"
+  },
+  {
+    "_id": "682620f9504fa3c870cde2db",
+    "compra_id": 4,
+    "cliente_id": 4,
+    "fecha_compra": "2023-03-07",
+    "total": 22,
+    "metodo_pago": "Tarjeta",
+    "estado": "Completado",
+    "tienda_id": 2,
+    "detalle": "Superman #1 x 2"
+  },
+  {
+    "_id": "682620f9504fa3c870cde2dc",
+    "compra_id": 5,
+    "cliente_id": 5,
+    "fecha_compra": "2023-03-08",
+    "total": 30,
+    "metodo_pago": "Efectivo",
+    "estado": "Completado",
+    "tienda_id": 1,
+    "detalle": "Aquaman Trilogía x 1"
+  }
+]

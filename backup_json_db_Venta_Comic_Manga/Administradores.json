@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "682621e7504fa3c870cde2ec",
+    "admin_id": 1,
+    "nombre": "Admin Uno",
+    "email": "admin1@comics.com",
+    "telefono": "555-1010",
+    "fecha_ingreso": "2022-01-01",
+    "activo": true,
+    "rol": "superadmin",
+    "username": "adminuno"
+  },
+  {
+    "_id": "682621e7504fa3c870cde2ed",
+    "admin_id": 2,
+    "nombre": "Admin Dos",
+    "email": "admin2@comics.com",
+    "telefono": "555-2020",
+    "fecha_ingreso": "2022-06-15",
+    "activo": true,
+    "rol": "moderador",
+    "username": "admindos"
+  },
+  {
+    "_id": "682621e7504fa3c870cde2ee",
+    "admin_id": 3,
+    "nombre": "Admin Tres",
+    "email": "admin3@comics.com",
+    "telefono": "555-3030",
+    "fecha_ingreso": "2023-01-10",
+    "activo": false,
+    "rol": "superadmin",
+    "username": "admintres"
+  },
+  {
+    "_id": "682621e7504fa3c870cde2ef",
+    "admin_id": 4,
+    "nombre": "Admin Cuatro",
+    "email": "admin4@comics.com",
+    "telefono": "555-4040",
+    "fecha_ingreso": "2023-03-05",
+    "activo": true,
+    "rol": "moderador",
+    "username": "admincuatro"
+  },
+  {
+    "_id": "682621e7504fa3c870cde2f0",
+    "admin_id": 5,
+    "nombre": "Admin Cinco",
+    "email": "admin5@comics.com",
+    "telefono": "555-5050",
+    "fecha_ingreso": "2023-04-01",
+    "activo": true,
+    "rol": "moderador",
+    "username": "admincinco"
+  }
+]

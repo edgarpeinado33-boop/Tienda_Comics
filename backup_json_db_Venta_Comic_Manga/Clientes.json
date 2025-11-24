@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "68262219504fa3c870cde2f6",
+    "cliente_id": 1,
+    "nombre": "Juan Pérez",
+    "email": "juan.perez@example.com",
+    "telefono": "555-1234",
+    "direccion": "Calle Falsa 123",
+    "fecha_registro": "2023-01-10",
+    "activo": true,
+    "metodo_pago_preferido": "Tarjeta",
+    "fecha_nacimiento": "1985-05-05"
+  },
+  {
+    "_id": "68262219504fa3c870cde2f7",
+    "cliente_id": 2,
+    "nombre": "María López",
+    "email": "maria.lopez@example.com",
+    "telefono": "555-5678",
+    "direccion": "Avenida Siempre Viva 742",
+    "fecha_registro": "2023-02-12",
+    "activo": true,
+    "metodo_pago_preferido": "Efectivo",
+    "fecha_nacimiento": "1990-07-20"
+  },
+  {
+    "_id": "68262219504fa3c870cde2f8",
+    "cliente_id": 3,
+    "nombre": "Carlos Martínez",
+    "email": "carlos.martinez@example.com",
+    "telefono": "555-9876",
+    "direccion": "Boulevard Central 450",
+    "fecha_registro": "2023-03-15",
+    "activo": false,
+    "metodo_pago_preferido": "Transferencia",
+    "fecha_nacimiento": "1978-02-28"
+  },
+  {
+    "_id": "68262219504fa3c870cde2f9",
+    "cliente_id": 4,
+    "nombre": "Ana Gómez",
+    "email": "ana.gomez@example.com",
+    "telefono": "555-2468",
+    "direccion": "Calle Luna 88",
+    "fecha_registro": "2023-01-25",
+    "activo": true,
+    "metodo_pago_preferido": "Tarjeta",
+    "fecha_nacimiento": "1983-11-11"
+  },
+  {
+    "_id": "68262219504fa3c870cde2fa",
+    "cliente_id": 5,
+    "nombre": "Luis Fernández",
+    "email": "luis.fernandez@example.com",
+    "telefono": "555-1357",
+    "direccion": "Av. Sol 333",
+    "fecha_registro": "2023-04-05",
+    "activo": true,
+    "metodo_pago_preferido": "Efectivo",
+    "fecha_nacimiento": "1995-09-09"
+  },
+  {
+    "_id": "683523a709fba55ba91e1677",
+    "cliente_id": 6,
+    "nombre": "Wario",
+    "email": "wario123@gmail.com",
+    "telefono": "121233",
+    "direccion": "Vertiente",
+    "fecha_registro": "2025-05-2025",
+    "activo": true,
+    "metodo_pago_preferido": "Efectivo",
+    "fecha_nacimiento": "2005-06-12"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "68261ffa504fa3c870cde297",
+    "personaje_id": 1,
+    "nombre": "Kamala Khan",
+    "alias": "Ms Marvel",
+    "comic_id": 1,
+    "poderes": "Cambio de forma, fuerza sobrehumana",
+    "genero": "Femenino",
+    "afiliacion": "Vengadores",
+    "primera_aparicion": "2014-02-01",
+    "estado": "Vivo"
+  },
+  {
+    "_id": "68261ffa504fa3c870cde298",
+    "personaje_id": 2,
+    "nombre": "Peter Parker",
+    "alias": "Spider-Man",
+    "comic_id": 2,
+    "poderes": "Súper fuerza, agilidad, sentido arácnido",
+    "genero": "Masculino",
+    "afiliacion": "Vengadores",
+    "primera_aparicion": "1962-08-01",
+    "estado": "Vivo"
+  },
+  {
+    "_id": "68261ffa504fa3c870cde299",
+    "personaje_id": 3,
+    "nombre": "Eren Yeager",
+    "alias": "Titán",
+    "manga_id": 1,
+    "poderes": "Transformación en titán",
+    "genero": "Masculino",
+    "afiliacion": "Exploradores",
+    "primera_aparicion": "2009-09-09",
+    "estado": "Vivo"
+  },
+  {
+    "_id": "68261ffa504fa3c870cde29a",
+    "personaje_id": 4,
+    "nombre": "Legoshi",
+    "alias": "Beastar",
+    "manga_id": 2,
+    "poderes": "Fuerza y agilidad de lobo",
+    "genero": "Masculino",
+    "afiliacion": "Estudiantes",
+    "primera_aparicion": "2016-09-08",
+    "estado": "Vivo"
+  },
+  {
+    "_id": "68261ffa504fa3c870cde29b",
+    "personaje_id": 5,
+    "nombre": "Ash Ketchum",
+    "alias": "Entrenador Pokémon",
+    "manga_id": 4,
+    "poderes": "Entrenador de Pokémon",
+    "genero": "Masculino",
+    "afiliacion": "Entrenadores",
+    "primera_aparicion": "1997-02-27",
+    "estado": "Vivo"
+  }
+]

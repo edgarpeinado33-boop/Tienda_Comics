@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "682620bf504fa3c870cde2ba",
+    "guionista_id": 1,
+    "nombre": "Stan Lee",
+    "pais": "USA",
+    "fecha_nacimiento": "1922-12-28",
+    "especialidad": "Superhéroes",
+    "activo": false,
+    "comics_escritos": 200,
+    "biografia": "Leyenda de Marvel."
+  },
+  {
+    "_id": "682620bf504fa3c870cde2bb",
+    "guionista_id": 2,
+    "nombre": "Frank Miller",
+    "pais": "USA",
+    "fecha_nacimiento": "1957-01-27",
+    "especialidad": "Superhéroes",
+    "activo": true,
+    "comics_escritos": 100,
+    "biografia": "Escritor e ilustrador influyente."
+  },
+  {
+    "_id": "682620bf504fa3c870cde2bc",
+    "guionista_id": 3,
+    "nombre": "Chris Claremont",
+    "pais": "USA",
+    "fecha_nacimiento": "1950-11-25",
+    "especialidad": "Superhéroes",
+    "activo": true,
+    "comics_escritos": 300,
+    "biografia": "Guionista de X-Men."
+  },
+  {
+    "_id": "682620bf504fa3c870cde2bd",
+    "guionista_id": 4,
+    "nombre": "Milka Adolfo",
+    "pais": "Argentina",
+    "fecha_nacimiento": "1985-03-15",
+    "especialidad": "Suspenso",
+    "activo": true,
+    "comics_escritos": 10,
+    "biografia": "Creador de Unnatural."
+  },
+  {
+    "_id": "682620bf504fa3c870cde2be",
+    "guionista_id": 5,
+    "nombre": "Hajime Isayama",
+    "pais": "Japón",
+    "fecha_nacimiento": "1986-08-29",
+    "especialidad": "Acción",
+    "activo": true,
+    "comics_escritos": 30,
+    "biografia": "Creador de Attack on Titan."
+  }
+]

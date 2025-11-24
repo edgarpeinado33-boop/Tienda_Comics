@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "68262050504fa3c870cde2b0",
+    "venta_id": 1,
+    "producto": "Spider-Man #1",
+    "cliente_id": 1,
+    "fecha_venta": "2023-03-01",
+    "cantidad": 1,
+    "precio_unitario": 3.99,
+    "total": 3.99,
+    "metodo_pago": "Tarjeta"
+  },
+  {
+    "_id": "68262050504fa3c870cde2b1",
+    "venta_id": 2,
+    "producto": "Naruto Vol.1",
+    "cliente_id": 2,
+    "fecha_venta": "2023-03-02",
+    "cantidad": 1,
+    "precio_unitario": 7.99,
+    "total": 7.99,
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "_id": "68262050504fa3c870cde2b2",
+    "venta_id": 3,
+    "producto": "Batman #1",
+    "cliente_id": 3,
+    "fecha_venta": "2023-03-03",
+    "cantidad": 2,
+    "precio_unitario": 4.99,
+    "total": 9.98,
+    "metodo_pago": "Tarjeta"
+  },
+  {
+    "_id": "68262050504fa3c870cde2b3",
+    "venta_id": 4,
+    "producto": "One Piece Vol.1",
+    "cliente_id": 4,
+    "fecha_venta": "2023-03-04",
+    "cantidad": 1,
+    "precio_unitario": 8.5,
+    "total": 8.5,
+    "metodo_pago": "Tarjeta"
+  },
+  {
+    "_id": "68262050504fa3c870cde2b4",
+    "venta_id": 5,
+    "producto": "X-Men #1",
+    "cliente_id": 5,
+    "fecha_venta": "2023-03-05",
+    "cantidad": 1,
+    "precio_unitario": 3.5,
+    "total": 3.5,
+    "metodo_pago": "Efectivo"
+  }
+]

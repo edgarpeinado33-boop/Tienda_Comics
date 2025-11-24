@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "682620e7504fa3c870cde2ce",
+    "evento_id": 1,
+    "nombre": "San Diego Comic-Con",
+    "fecha_inicio": "2023-07-20",
+    "fecha_fin": "2023-07-23",
+    "ubicacion": "San Diego",
+    "descripcion": "Evento anual de cómics y entretenimiento.",
+    "asistentes": 130000,
+    "activo": true
+  },
+  {
+    "_id": "682620e7504fa3c870cde2cf",
+    "evento_id": 2,
+    "nombre": "New York Comic Con",
+    "fecha_inicio": "2023-10-05",
+    "fecha_fin": "2023-10-08",
+    "ubicacion": "Nueva York",
+    "descripcion": "Convención popular de cómics.",
+    "asistentes": 250000,
+    "activo": true
+  },
+  {
+    "_id": "682620e7504fa3c870cde2d0",
+    "evento_id": 3,
+    "nombre": "Anime Expo",
+    "fecha_inicio": "2023-07-01",
+    "fecha_fin": "2023-07-04",
+    "ubicacion": "Los Ángeles",
+    "descripcion": "Evento dedicado al anime y manga.",
+    "asistentes": 110000,
+    "activo": true
+  },
+  {
+    "_id": "682620e7504fa3c870cde2d1",
+    "evento_id": 4,
+    "nombre": "Comic Fiesta",
+    "fecha_inicio": "2023-11-20",
+    "fecha_fin": "2023-11-23",
+    "ubicacion": "Kuala Lumpur",
+    "descripcion": "Convención de cómics en Malasia.",
+    "asistentes": 50000,
+    "activo": true
+  },
+  {
+    "_id": "682620e7504fa3c870cde2d2",
+    "evento_id": 5,
+    "nombre": "Lucca Comics & Games",
+    "fecha_inicio": "2023-10-28",
+    "fecha_fin": "2023-11-01",
+    "ubicacion": "Lucca",
+    "descripcion": "Evento europeo de cómics.",
+    "asistentes": 300000,
+    "activo": true
+  }
+]

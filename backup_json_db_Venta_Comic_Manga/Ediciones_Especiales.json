@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "68262121504fa3c870cde2dd",
+    "edicion_id": 1,
+    "comic_id": 1,
+    "nombre_edicion": "Ms Marvel Edición Deluxe",
+    "fecha_lanzamiento": "2022-10-01",
+    "cantidad_limitada": 1000,
+    "precio": 15.99,
+    "caracteristicas": "Tapa dura, ilustraciones exclusivas",
+    "disponible": true
+  },
+  {
+    "_id": "68262121504fa3c870cde2de",
+    "edicion_id": 2,
+    "comic_id": 2,
+    "nombre_edicion": "Spider-Man 60 Aniversario",
+    "fecha_lanzamiento": "2022-08-01",
+    "cantidad_limitada": 2000,
+    "precio": 20,
+    "caracteristicas": "Contenido extra, portada metalizada",
+    "disponible": true
+  },
+  {
+    "_id": "68262121504fa3c870cde2df",
+    "edicion_id": 3,
+    "comic_id": 3,
+    "nombre_edicion": "Unnatural Edición Especial",
+    "fecha_lanzamiento": "2021-05-15",
+    "cantidad_limitada": 1500,
+    "precio": 18,
+    "caracteristicas": "Tapa dura, arte exclusivo",
+    "disponible": true
+  },
+  {
+    "_id": "68262121504fa3c870cde2e0",
+    "edicion_id": 4,
+    "comic_id": 4,
+    "nombre_edicion": "Batman 80 Aniversario",
+    "fecha_lanzamiento": "2019-05-01",
+    "cantidad_limitada": 1200,
+    "precio": 18.5,
+    "caracteristicas": "Tapa dura, entrevistas exclusivas",
+    "disponible": true
+  },
+  {
+    "_id": "68262121504fa3c870cde2e1",
+    "edicion_id": 5,
+    "comic_id": 5,
+    "nombre_edicion": "X-Men Edición de Coleccionista",
+    "fecha_lanzamiento": "2020-06-01",
+    "cantidad_limitada": 900,
+    "precio": 22,
+    "caracteristicas": "Póster exclusivo, tapa dura",
+    "disponible": false
+  }
+]

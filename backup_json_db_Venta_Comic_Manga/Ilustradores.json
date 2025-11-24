@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "6826207b504fa3c870cde2b5",
+    "ilustrador_id": 1,
+    "nombre": "John Romita Sr.",
+    "pais": "USA",
+    "fecha_nacimiento": "1930-01-24",
+    "especialidad": "Superhéroes",
+    "activo": false,
+    "comics_asociados": 150,
+    "biografia": "Influyente ilustrador de Marvel."
+  },
+  {
+    "_id": "6826207b504fa3c870cde2b6",
+    "ilustrador_id": 2,
+    "nombre": "Jim Lee",
+    "pais": "Corea del Sur",
+    "fecha_nacimiento": "1964-08-11",
+    "especialidad": "Superhéroes",
+    "activo": true,
+    "comics_asociados": 300,
+    "biografia": "Artista y editor en DC Comics."
+  },
+  {
+    "_id": "6826207b504fa3c870cde2b7",
+    "ilustrador_id": 3,
+    "nombre": "Jack Kirby",
+    "pais": "USA",
+    "fecha_nacimiento": "1917-08-28",
+    "especialidad": "Superhéroes",
+    "activo": false,
+    "comics_asociados": 500,
+    "biografia": "Legendario creador y artista."
+  },
+  {
+    "_id": "6826207b504fa3c870cde2b8",
+    "ilustrador_id": 4,
+    "nombre": "Takeshi Obata",
+    "pais": "Japón",
+    "fecha_nacimiento": "1969-02-11",
+    "especialidad": "Manga",
+    "activo": true,
+    "comics_asociados": 80,
+    "biografia": "Ilustrador de Death Note."
+  },
+  {
+    "_id": "6826207b504fa3c870cde2b9",
+    "ilustrador_id": 5,
+    "nombre": "Yusuke Murata",
+    "pais": "Japón",
+    "fecha_nacimiento": "1978-07-03",
+    "especialidad": "Manga",
+    "activo": true,
+    "comics_asociados": 100,
+    "biografia": "Ilustrador de One Punch Man."
+  }
+]

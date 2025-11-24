@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "682621f3504fa3c870cde2f1",
+    "detalle_id": 1,
+    "venta_id": 1,
+    "producto_id": 1,
+    "cantidad": 2,
+    "precio_unitario": 3.99,
+    "total": 7.98,
+    "descuento": 0,
+    "comentarios": "Compra sin descuento."
+  },
+  {
+    "_id": "682621f3504fa3c870cde2f2",
+    "detalle_id": 2,
+    "venta_id": 2,
+    "producto_id": 6,
+    "cantidad": 1,
+    "precio_unitario": 7.99,
+    "total": 7.99,
+    "descuento": 0,
+    "comentarios": "Producto con envío rápido."
+  },
+  {
+    "_id": "682621f3504fa3c870cde2f3",
+    "detalle_id": 3,
+    "venta_id": 3,
+    "producto_id": 3,
+    "cantidad": 1,
+    "precio_unitario": 4.99,
+    "total": 4.99,
+    "descuento": 0,
+    "comentarios": "Pedido con regalo promocional."
+  },
+  {
+    "_id": "682621f3504fa3c870cde2f4",
+    "detalle_id": 4,
+    "venta_id": 4,
+    "producto_id": 2,
+    "cantidad": 3,
+    "precio_unitario": 4.5,
+    "total": 13.5,
+    "descuento": 1.5,
+    "comentarios": "Descuento especial aplicado."
+  },
+  {
+    "_id": "682621f3504fa3c870cde2f5",
+    "detalle_id": 5,
+    "venta_id": 5,
+    "producto_id": 4,
+    "cantidad": 1,
+    "precio_unitario": 3.75,
+    "total": 3.75,
+    "descuento": 0,
+    "comentarios": ""
+  }
+]

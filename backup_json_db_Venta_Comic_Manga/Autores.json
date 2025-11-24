@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "68261fe8504fa3c870cde292",
+    "autor_id": 1,
+    "nombre": "Stan Lee",
+    "pais": "USA",
+    "fecha_nacimiento": "1922-12-28",
+    "genero_especialidad": "Superhéroes",
+    "numero_comics": 200,
+    "activo": false,
+    "biografia": "Leyenda del cómic estadounidense."
+  },
+  {
+    "_id": "68261fe8504fa3c870cde293",
+    "autor_id": 2,
+    "nombre": "Bob Kane",
+    "pais": "USA",
+    "fecha_nacimiento": "1915-10-24",
+    "genero_especialidad": "Superhéroes",
+    "numero_comics": 150,
+    "activo": false,
+    "biografia": "Co-creador de Batman."
+  },
+  {
+    "_id": "68261fe8504fa3c870cde294",
+    "autor_id": 3,
+    "nombre": "Chris Claremont",
+    "pais": "USA",
+    "fecha_nacimiento": "1950-11-25",
+    "genero_especialidad": "Superhéroes",
+    "numero_comics": 300,
+    "activo": true,
+    "biografia": "Guionista de X-Men."
+  },
+  {
+    "_id": "68261fe8504fa3c870cde295",
+    "autor_id": 4,
+    "nombre": "Milka Adolfo",
+    "pais": "Argentina",
+    "fecha_nacimiento": "1985-03-15",
+    "genero_especialidad": "Suspenso",
+    "numero_comics": 10,
+    "activo": true,
+    "biografia": "Creador de Unnatural."
+  },
+  {
+    "_id": "68261fe8504fa3c870cde296",
+    "autor_id": 5,
+    "nombre": "Hajime Isayama",
+    "pais": "Japón",
+    "fecha_nacimiento": "1986-08-29",
+    "genero_especialidad": "Acción",
+    "numero_comics": 30,
+    "activo": true,
+    "biografia": "Creador de Attack on Titan."
+  }
+]
